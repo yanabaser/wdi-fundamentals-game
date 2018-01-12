@@ -85,6 +85,9 @@ font-size: 0;
   color: #F15B34;
   font-weight: 700;
 }
-button{
-  color: orange;
+.reset-button{
+  color: white;
+  background-color:#F15B31;
+  padding:15px;
+  border-radius:20%;
 }
